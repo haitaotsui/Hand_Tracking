@@ -4,5 +4,6 @@
 2. Python: version 3.9 - 3.12
 
    pip install opencv-python
+   
    pip install mediapipe
    
